@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "My Third Post! edit mi",
+      "datetime": 2022,
+      "body": "editledim xd"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post!",
+      "datetime": 2022,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "id": 478,
+      "title": "Ankara konya",
+      "datetime": 2022,
+      "body": "Deneme Post edit"
+    },
+    {
+      "id": 296,
+      "title": "edit new",
+      "datetime": 2022,
+      "body": "new xxd"
+    }
+  ]
+}

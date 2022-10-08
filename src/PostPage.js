@@ -13,6 +13,7 @@ console.log(post)
       <h2>{post.title}</h2>
       <p className='post__date'>{post.datetime}</p>
       <p className='post__date'>{post.body}</p>
+      <Link to={`/edit/${id}`}><button className="edit__Btn">Edit</button></Link>
       <button className='delete__Btn' onClick={()=>handleDelete(post.id)}>Delete</button>
      </>
               

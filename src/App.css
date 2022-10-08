@@ -1,8 +1,10 @@
 *{
     margin:0;
     text-align: center;
+  
     
 }
+
 .header{
     background: rgb(56, 193, 242);
     }
@@ -10,7 +12,8 @@
 
     }
 .footer{
-    
+    background: rgb(56, 193, 242);
+    bottom: 0;
 }
 
 .nav{
